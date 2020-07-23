@@ -1,10 +1,16 @@
-# hotel_reviews
+# Hotel_reviews_sentiment analysis by NLP
 
-Your specific team is embedded in the CX (customer experience) division. Each day you receive hundreds of reviews of your 10 hotels from your customers. 
-Each review consists of a free-form text review and a report of "happy" or "not happy". A product manager on your team wants to understand each hotel's performance 
-at a more granular level; they want to build a product to identify topics within reviews. All of your reviews are unlabeled, and it's infeasible to label them by hand.
+Hotel reviews can be used to automatically understand if some users are positive or negative and why. This project collectd hundreds of reviews from 10 hotels. 
+Each review consists of a free-form text review and a report of "happy" or "not happy". 
 
-1. Design and execute a method to identify topics within the reviews. 
-2. For each topic, find a robust means of assigning a score to each hotel in that topic. 
-3. For each of the ten hotels, what specific-to-that-hotel recommendations would you make to their general managers?
-4. Engineering Challenge: How would you design this system to update over time? How would you persist topics from one timestep/update to another? How would you design your scores so they can meaningfully understand when they’re doing better?
+# Data clearning 
+
+
+
+
+# Model training 
+
+
+
+
+# Model results
